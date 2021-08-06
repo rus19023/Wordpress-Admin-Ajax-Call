@@ -14,7 +14,7 @@ function my_action_callback() {
 }
 
 
-// Here is functgion how to calll the wordpress Aajx
+// Here is functgion how to call the wordpress Aajx
 <script>
 var data = {
    'action': 'my_action',
